@@ -4,5 +4,6 @@
   "description": "US Driver License Validator Generator",
   "scripts": {
     "start": "node server.js"
-  }
+  },
+  "dependencies": {}
 }

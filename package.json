@@ -1,0 +1,8 @@
+{
+  "name": "us-dl-validator-generator",
+  "version": "1.0.0",
+  "description": "US Driver License Validator Generator",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
